@@ -11,8 +11,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3-c0der&show_icons=true&locale=en&layout=compact" alt="th3-c0der" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th3-c0der&show_icons=true&locale=en" alt="th3-c0der" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3-c0der&" alt="th3-c0der" /></p>
 
 
