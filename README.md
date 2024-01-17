@@ -3,7 +3,7 @@
 
 <a href="https://Th3-C0der.github.io">Visit Th3-C0der's Website</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=38&pause=1000&color=00FF00&random=false&width=435&lines=Hello+I+Am+%5BTh3-C0der%5D)](https://Th3-C0der.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=38&pause=1000&color=00FF00&random=false&width=450&lines=Hello+I+Am+Th3-C0der)](https://Th3-C0der.github.io)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th3-c0der&label=Profile%20views&color=0e75b6&style=flat" alt="th3-c0der" /> </p>
