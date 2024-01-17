@@ -2,6 +2,7 @@
 "Don't let my "Hello World" fool you - I'm on a mission to conquer the coding universe, one semicolon at a time."
 
 <a href="https://Th3-C0der.github.io">Visit Th3-C0der's Website</a>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=38&pause=1000&color=00FF00&random=false&width=435&lines=Hello+I+Am+%5BTh3-C0der%5D)](https://Th3-C0der.github.io)
 
 
