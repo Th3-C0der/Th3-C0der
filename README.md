@@ -20,7 +20,7 @@
 <a href="https://github.com/Th3-C0der/Th3-Bomber"><img title="Th3-Bomber" src="https://github-readme-stats.vercel.app/api/pin/?username=Th3-C0der&repo=Th3-Bomber&theme=highcontrast"></a>
 <a href="https://github.com/Th3-C0der/Th3-C0der.github.io"><img title="Th3-C0der's Website" src="https://github-readme-stats.vercel.app/api/pin/?username=Th3-C0der&repo=Th3-C0der.github.io&theme=radical"></a>
 
-<h3 align="left">I Looking For Contributers ^_^</h3>
+<h3 align="left">I Am Looking For Contributers ^_^</h3>
 <h4 align="left">If You Want To Contribute To My Repositories Fork Them And Update/Edit The Code And Publish It Under Main Branch</h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3-c0der&show_icons=true&locale=en&layout=compact" alt="th3-c0der" /></p>
