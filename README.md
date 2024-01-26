@@ -16,13 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3-c0der&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact" alt="th3-c0der" /></p>
 <p>ㅤ</p>
-
-<h3 align="left">I Am Looking For Contributers ^_^</h3>
-<h4 align="left">If You Want To Become Contributer Of My Repositories Fork Them And Update/Edit The Code And Start A Pull Request</h4>
-
-
-
-
 <!---
 Th3-C0der/Th3-C0der is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
