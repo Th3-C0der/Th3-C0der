@@ -14,7 +14,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Th3-C0der&theme=chartreuse-dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3-c0der&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact" alt="th3-c0der" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3-c0der&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact&hide_progress=true" alt="th3-c0der" /></p>
 <p>ㅤ</p>
 <!---
 Th3-C0der/Th3-C0der is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
