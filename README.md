@@ -12,7 +12,7 @@
 
 ![Th3-C0der's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3-C0der&show_icons=true&theme=chartreuse-dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Th3-C0der&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Th3-C0der&theme=chartreuse-dark)](https://github.com/Th3-C0der)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3-c0der&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact" alt="th3-c0der" /></p>
 <p>ㅤ</p>
