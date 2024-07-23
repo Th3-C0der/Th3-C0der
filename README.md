@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋🏻 I'm Th3-C0der</h1>
+<h1 align="center">Hello World!<br>I'm Th3-C0der</h1>
 <p align="center">"Don't let my 'Hello World' fool you - I'm on a mission to conquer the coding universe, one semicolon at a time."</p>
 
 <p align="center">
