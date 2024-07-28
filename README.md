@@ -2,8 +2,9 @@
 <p align="center">"Don't let my 'Hello World' fool you - I'm on a mission to conquer the coding universe, one semicolon at a time."</p>
 
 <p align="center">
-  <a href="https://Th3-AI.github.io">🌐 Visit Th3-C0der's AI Website</a><br>
-  <a href="https://Th3-Space.onrender.com">🚀 Visit Th3-C0der's Space Website</a>
+  <a href="https://Th3-C0der.github.io">🌐 Visit My Portfolio</a><br>
+  <a href="https://Th3-C0der.github.io/ai">✨ Visit Th3-C0der's AI Website</a><br>
+  <a href="https://Th3-C0der.github.io/space">🚀 Visit Th3-C0der's Space Website</a>
 </p>
 
 <p align="center">
