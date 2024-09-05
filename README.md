@@ -2,9 +2,9 @@
 <p align="center">"Don't let my 'Hello World' fool you - I'm on a mission to conquer the coding universe, one semicolon at a time."</p>
 
 <p align="center">
-  <a href="https://Th3-C0der.github.io">🌐 Visit My Portfolio</a><br>
-  <a href="https://Th3-C0der.github.io/ai">✨ Visit Th3-C0der's AI Website</a><br>
-  <a href="https://Th3-C0der.github.io/space">🚀 Visit Th3-C0der's Space Website</a>
+  <a href="https://Th3.is-a.dev">🌐 Visit My Portfolio</a><br>
+  <a href="https://dynaspark.onrender.com">🚀 Visit Th3-C0der's DynaSpark AI</a><br><br>
+  <a href="https://ai.google.dev/competition/projects/dynaspark-ai">🚀Vote For DynaSpark AI On Google's Gemini API Competition🚀</a>
 </p>
 
 <p align="center">
