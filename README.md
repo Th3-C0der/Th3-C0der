@@ -61,7 +61,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Th3-C0der&theme=matrix&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Th3-C0der&theme=matrix&column=8" />
 </p>
 
 
