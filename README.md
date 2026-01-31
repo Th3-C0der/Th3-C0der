@@ -1,6 +1,6 @@
 <h1 align="center">🌟 Hello World! I'm <span style="color:#00ff00;">Th3-C0der</span> 👨🏻‍💻</h1>
 
-<p align="center"><i>“Don’t let my ‘Hello World’ fool you — I'm on a mission to conquer the coding universe, one semicolon at a time.”</i></p>
+<!-- <p align="center"><i>“Don’t let my ‘Hello World’ fool you — I'm on a mission to conquer the coding universe, one semicolon at a time.”</i></p> -->
 
 <p align="center">
   <a href="https://Th3.is-a.dev">🌐 Portfolio</a> •
