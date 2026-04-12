@@ -55,12 +55,12 @@
   <a href="https://twitter.com/Th3_C0der">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://youtube.com/@Th3-C0der">
+  <a href="https://youtube.com/@Th3Coder">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://www.buymeacoffee.com/Th3C0der">
+  <!-- <a href="https://www.buymeacoffee.com/Th3C0der">
     <img src="https://img.shields.io/badge/BuyMeACoffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
-  </a>
+  </a> -->
 </p>
 
 ---
