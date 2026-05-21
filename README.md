@@ -20,7 +20,7 @@
     <td align="center" width="50%">
       <h3>🤖 DynaSpark AI</h3>
       <p>A memory-enabled chatbot with OpenAI compatibility, lightning-fast response, and smart UX.</p>
-      <a href="https://dynaspark.onrender.com"><strong>🌐 Visit Site</strong></a>
+      <s><a href="https://dynaspark.onrender.com"><strong>🌐 Visit Site</strong></a></s>
     </td>
     <td align="center" width="50%">
       <h3>🧑‍💻 My Portfolio</h3>
@@ -79,7 +79,7 @@
 
 <p align="center"><b>📱 App Development</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter,react" />
 </p>
 
 <p align="center"><b>🤖 AI / Machine Learning</b></p>
@@ -94,12 +94,12 @@
 
 <p align="center"><b>☁️ Cloud & Hosting</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,workers" />
 </p>
 
 <p align="center"><b>🛠️ Tools & Platforms</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman,cloudflare" />
 </p>
 
 ## 📊 GitHub Stats
